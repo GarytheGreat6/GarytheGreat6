@@ -1,13 +1,12 @@
-## Hi there 👋
+## Hi there I'm Gary a Grade 12 student in Ottawa! 👋
 
-<!--
-**GarytheGreat6/GarytheGreat6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on a Webapp
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on a WebApp
+- 🖥️ Languages: Python, JSS, HTMl, CSS
+- 🌱 I’m currently learning Raspberry Pi
 - 👯 I’m looking to collaborate on anything that piques my interest
 - 🤔 I’m looking for help with UberKenny
 - 💬 Ask me about Soccer
 - 📫 How to reach me: Email
-- ⚡ Fun fact: I like Chocolate
--->
+- ⚡ Fun fact: I like sports
+
+
